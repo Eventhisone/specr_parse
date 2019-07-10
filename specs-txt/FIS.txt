@@ -1,0 +1,456 @@
+ BLACK GRANITE CALIBUR
+ 45 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 7T - 6B
+ BLACK GRANITE COMP 95
+ 45 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 6T
+ 8T
+ 7T - 7B
+ BLACK GRANITE NO. ONE 98 (SL)
+ 45 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7T - 7B
+ BLACK GRANITE NO. ONE 98 (UL)
+ 45 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7T - 7B
+ BLACK GRANITE RALLY
+ 45 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 7T - 6B
+ BLACK GRANITE SPEED
+ 45 - 65
+ 20'M - 17'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 4T - 7B
+ BLACK GRANITE SPICE
+ 45 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 7T - 6B
+ BLACK GRANITE TOUR
+ 45 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 4B
+ BREAKPOINT 100 MP
+ 55 - 57
+ 39' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ BREAKPOINT 100 OS
+ 55 - 57
+ 38' - 10'S
+ 16M X 20C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ BREAKPOINT 80 MP
+ 55 - 57
+ 39' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8B
+ 7T
+ BREAKPOINT 80 OS
+ 55 - 57
+ 38' - 10'S
+ 16M X 20C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS 1000 AIR CARBON Ti
+ 55 - 57
+ 39' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8B
+ 5T
+ GDS 300 Ti
+ 55 - 57
+ 39' - 10'S
+ 16M X 20C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS 500 Ti
+ 55 - 57
+ 39' - 10'S
+ 16M X 21C
+ 8T - 7,9B
+ 8B
+ 7B
+ 7T
+ GDS 700 Ti
+ 55 - 57
+ 39' - 10'S
+ 16M X 21C
+ 8T - 7,9B
+ 8B
+ 7B
+ 7T
+ GDS 900 AIR CARBON Ti
+ 55 - 57
+ 39' - 10'S
+ 16M X 21C
+ 8T - 7,9B
+ 8B
+ 7B
+ 7T
+ GDS RALLY
+ 51 - 53
+ 38' - 10'S
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS RALLY
+ 45 - 65
+ 38' - 10'S
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS RALLY FT
+ 45 - 65
+ 39' - 10'S
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS SPICE
+ 45 - 65
+ 38' - 10'S
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS SPICE FT
+ 45 - 65
+ 39' - 10'S
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS SPIRIT
+ 45 - 65
+ 39' - 10'S
+ 16M X 21C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS SPIRIT FT
+ 45 - 65
+ 39' - 10'S
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ GDS TAKE OFF 910 FT
+ 45 - 65
+ 40' - 11'S
+ 16M X 20C
+ 7,9T - 8B
+ 6T
+ 7T
+ 6B
+ GDS VISION
+ 45 - 65
+ 39' - 10'S
+ 16M X 21C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ M 1210
+ 45 - 65
+ 36' - 10'S
+ 16M X 20C
+ 8T
+ 6T
+ 8T
+ 7B
+ M COMP 95
+ 45 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 7B
+ M GDS RALLY
+ 45 - 65
+ 20'M - 16'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 7T - 6B
+ M MOTION
+ 45 - 65
+ 21'M - 18'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 4T - 7B
+ M PRO NO. ONE 105
+ 50 - 70
+ 20'M - 16'C
+ 16M X 19C
+ 8T - 7,9B
+ 6T
+ 8T
+ 4T - 5B
+ M PRO NO. ONE 98
+ 45 - 65
+ 36' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ M RALLY
+ 45 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 7T - 6B
+ M TOUR 100
+ 45 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 4B
+ M TWIN TEC MOTION
+ 45 - 65
+ 21'M - 18'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 4T - 7B
+ M VISION
+ 45 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 7T - 6B
+ MICHAEL STITCH
+ 37 - 57
+ 36' - 9'S
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ PRO CLASSIC AIR CARBON Ti
+ 55 - 57
+ 36' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8B
+ 7T
+ PRO CLASSIC XL Ti
+ 55 - 57
+ 36' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8B
+ 7T
+ PRO EXTREME
+ 51 - 53
+ 36' - 10'S
+ 16M X 19C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ PRO EXTREME AIR CARBON Ti
+ 45 - 65
+ 36' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ PRO EXTREME FT
+ 50 - 70
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 9B
+ PRO IMPACT FT
+ 50 - 70
+ 36' - 10'S
+ 16M X 19C
+ 8T - 8B
+ 6T
+ 8T
+ 6B
+ PRO NO. 1
+ 55 - 57
+ 36' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ PRO NO. 1 FT
+ 50 - 70
+ 20'M - 16'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7T - 7B
+ PRO NO. 1 IMPACT FT
+ 50 - 70
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 6T
+ 8T
+ 5T - 6B
+ PRO NO. 1 XL Ti 
+ 55 - 57
+ 36' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ PRO SPEED Ti
+ 53 - 55
+ 36' - 10'S
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7B
+ PRO TOUR
+ 50 - 70
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 4B
+ PRO TOUR EXTREME FT
+ 50 - 70
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 9B
+ PRO TOUR FT
+ 50 - 70
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 5T - 5B
+ SMASH Ti
+ 45 - 65
+ 36' - 10'S
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 7B
+ 7T
+ STRIKE Ti
+ 45 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 7T - 6B
+ TWIN TEC 1250 FTi
+ 45 - 65
+ 20'M - 16'C
+ 16M X 20C
+ 8T
+ 6T
+ 8T
+ 4T - 7B
+ TWIN TEC 750 FTi
+ 45 - 65
+ 20'M - 16'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7T - 7B
+ TWIN TEC 950 FTi
+ 45 - 65
+ 20'M - 16'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7T - 7B
+ TWIN TEC SPEED FTi
+ 45 - 65
+ 20'M - 16'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 4T - 7B

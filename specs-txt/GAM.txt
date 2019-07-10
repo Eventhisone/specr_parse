@@ -1,0 +1,568 @@
+ AIR CARBON CONTROL 6.0
+ 50 - 70
+ 20'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ AIR CARBON POWER 3.0 MP
+ 45 - 65
+ 20'M - 17'C
+ 19M X 19C
+ 7,9T - 7,9,10B
+ 5B
+ 7T
+ 5T - 10B
+ AIR CARBON POWER 3.0 OS
+ 45 - 65
+ 21'M - 20'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ AIR CARBON TOURNAMENT 9.0 MP
+ 45  -65
+ 20'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9,10B
+ 6B
+ 7T
+ 5T - 10B
+ BIG BUBBA
+ 50 - 70
+ 22'M - 21'C
+ 18M X 21C
+ 9T - 7,9,11B
+ 7T
+ 9T
+ 5T - 5B
+ BIG BUBBA 29
+ 55 - 65
+ 22'M - 21'C
+ 18M X 21C
+ 9T - 7,9,11B
+ 7T
+ 9T
+ 5T - 5B
+ BIG BUBBA PRO
+ 50 - 70
+ 22'M - 21'C
+ 18M X 21C
+ 9T - 7,9,11B
+ 7T
+ 9T
+ 5T - 5B
+ BIG BUBBA TITAN SUPER OS
+ 40 - 60
+ 21'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 6T
+ 8T
+ 4T - 6B
+ BIG BUBBA TOUR
+ 50 - 65
+ 22'M - 18'C
+ 18M X 21C
+ 9T - 7,9,11B
+ 7T
+ 9T
+ 5T - 5B
+ C FOUR
+ 55 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 8T - 5B
+ C ONE
+ 55 - 65
+ 21'M - 19'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ C THREE
+ 55 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 8T
+ 7T - 4B
+ C TWO
+ 55 - 65
+ 21'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 8T
+ 6T - 5B
+ CP 1000
+ 55 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 5B
+ CP 1200
+ 55 - 65
+ 40' - 10'S
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7B
+ 5T
+ CP 800
+ 55 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 7,9B
+ 6B
+ 8T
+ 7T - 4B
+ CP 900
+ 55 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 8T - 5B
+ CP 900 TEAM
+ 55 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 8T - 5B
+ DIAMOND FIBER C-2.0 SOS
+ 50 - 70
+ 22'M - 21'C
+ 18M X 21C
+ 9T - 7,9,11B
+ 7T
+ 9T
+ 7T - 5B
+ DIAMOND FIBER C-3.0 MP
+ 45 - 65
+ 20'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9,10B
+ 5B
+ 7T
+ 5T - 10B
+ DIAMOND FIBER C-3.0 OS
+ 45 - 65
+ 21'M - 20'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 10B
+ DIAMOND FIBER C-4.0 MP
+ 45 - 65
+ 20'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9,10B
+ 6B
+ 7T
+ 5T - 10B
+ DIAMOND FIBER C-4.0 OS
+ 50 - 70
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ DIAMOND FIBER C-4.5 MP
+ 50 - 70
+ 19'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ DIAMOND FIBER C-4.5 OS
+ 50 - 70
+ 20'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ DIAMOND FIBER F-8.0 OS
+ 50 - 70
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 11B
+ DIAMOND FIBER F-9.0 MP
+ 50 - 70
+ 20'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 9B
+ DIAMOND FIBER F-9.0 OS
+ 50 - 70
+ 20'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 11B
+ DIAMOND FIBER M-4.5 MP
+ 50 - 70
+ 19'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ DIAMOND FIBER M-4.5 OS
+ 50 - 70
+ 20'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ G250
+ 55 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ G260
+ 55 - 65
+ 20'M - 19'C
+ 18M X 19C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 9T - 11B
+ G290
+ 55 - 65
+ 20'M - 19'C
+ 18M X 19C
+ 8,10T - 8,10,11B
+ 7B
+ 8T
+ 6T - 6B
+ G310
+ 55 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 7B
+ G325
+ 55 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 5B
+ IPEX 2.0 SOS
+ 50 - 70
+ 22'M - 21'C
+ 18M X 21C
+ 9T - 7,9,11B
+ 7T
+ 9T
+ 7T - 5B
+ IPEX 3.0 OS
+ 50 - 70
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ IPEX 5.0 MP
+ 50 - 70
+ 19'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ IPEX 5.0 OS
+ 50 - 70
+ 20'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ IPEX 7.0 MP
+ 50 - 70
+ 20'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 9B
+ IPEX 7.0 OS
+ 50 - 70
+ 20'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 11B
+ POWERSTICK 26 XL OS
+ 50 - 70
+ 20'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 5B
+ 7T
+ 5T - 6B
+ POWERSTICK 28 XL OS
+ 50 - 70
+ 20'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 5B
+ 7T
+ 5T - 6B
+ POWERSTICK COMP 23 OS
+ 40 - 60
+ 18'M - 16'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 4B
+ POWERSTICK LITE 26 MP
+ 50 - 70
+ 16'M - 19'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 5B
+ 7T
+ 5T - 4B
+ POWERSTICK LITE 26 OS
+ 50 - 70
+ 20'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 5B
+ 7T
+ 5T - 4B
+ POWERSTICK S3 XL MP
+ 50 - 70
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 7,9B
+ 6B
+ 8T
+ 5T - 5B
+ POWERSTICK S3 XL OS
+ 50 - 70
+ 20'M - 18'C
+ 16M X 20C
+ 8T - 7,9B
+ 6B
+ 8T
+ 5T - 5B
+ RZR 100
+ 55 - 62
+ 20'M - 18'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 6T - 8B
+ RZR 100M
+ 55 - 62
+ 20'M - 18'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 6T - 8B
+ RZR 100T
+ 55 - 62
+ 20'M - 18'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 6T - 8B
+ RZR 105
+ 52 - 62
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 5B
+ RZR 110
+ 55 - 62
+ 20'M - 19'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 5B
+ RZR 95
+ 52 - 62
+ 19'M - 18'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 6T - 8B
+ RZR 98
+ 55 - 62
+ 20'M - 18'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 6T - 8B
+ RZR 98M
+ 55 - 62
+ 20'M - 18'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 6T - 8B
+ RZR 98T
+ 55 - 62
+ 20'M - 18'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 6T - 8B
+ RZR BUBBA 117
+ 55 - 65
+ 22'M - 20'C
+ 16M X 19C
+ 8T - 6,8,10B
+ 9B
+ 8T
+ 7T - 7B
+ RZR BUBBA 137
+ 50 - 65
+ 24'M - 21'C
+ 18M X 21C
+ 9T - 7,9,11B
+ 8T
+ 9T
+ 7T - 5B
+ T FIVE
+ 55 - 65
+ 20'M - 19'C
+ 18M X 19C
+ 9T - 8,10B
+ 7B
+ 9T
+ 6T - 9B
+ T SEVEN
+ 55 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 7,9T - 8B
+ 6B
+ 7T
+ 5T - 7B
+ T SIX
+ 55 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6T
+ 8T
+ 7T - 7B
+ TOUR 300 X
+ 55 - 65
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 6T
+ 8T
+ 5T - 6B
+ TOUR 320 X 98
+ 50 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 5B
+ TOUR 330 X 95
+ 50 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 11B
+ TOUR 340 X
+ 53 - 63
+ 20'M - 18'C
+ 18M X 20C
+ 8,10T - 8,10B
+ 7B
+ 8T
+ 6T - 10B
+ TRADITION 18 MP
+ 50 - 70
+ 18'M - 15'C
+ 16M X 18C
+ 8T - 8B
+ 5B
+ 8T
+ 6T - 6B
+ TRADITION 20 MP
+ 50 - 70
+ 18'M - 15'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ TRADITION 20 OS
+ 50 - 70
+ 20'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 11B
+ TRADITION 20 XL
+ 50 - 70
+ 18'M - 15'C
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ TRADITION 20 XL OS
+ 50 - 70
+ 20'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 5T - 11B

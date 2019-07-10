@@ -1,0 +1,1424 @@
+ CYBORG 2200
+ 50 - 70
+ 19'M - 17'C
+ 16M X 19C
+ 8T
+ 6B
+ 8T
+ 6T - 9B
+ CYBORG 2700
+ 50 - 70
+ 19'M - 17'C
+ 16M X 19C
+ 8T
+ 6B
+ 8T
+ 6T - 9B
+ EZONE 100
+ 40 - 65
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE 107
+ 40 - 65
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE 98
+ 40 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 10B
+ EZONE Ai 100
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE Ai 108
+ 45 - 60
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE Ai 98
+ 45 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ EZONE Ai FEEL
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE Ai LITE
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE Ai RALLY
+ 45 - 55
+ 21'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE CHAMPION
+ 53 - 63
+ 19'M -18'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 8T
+ 7T
+ 5T - 8B
+ EZONE DR 100
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE DR 108
+ 45 - 60
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE DR 98
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ EZONE DR FEEL
+ 45 - 60
+ 20'M -19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE DR LITE
+ 45 - 60
+ 20'M -19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE DR RALLY
+ 45 - 60
+ 20'M -19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE LITE
+ 40 - 65
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ EZONE Xi 100
+ 45 - 60
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ EZONE Xi 107
+ 45 - 60
+ 21'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ EZONE Xi 115
+ 45 - 60
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ EZONE Xi 98
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ EZONE Xi LITE
+ 45 - 60
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ MP TOUR 5
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ MP-2i 102
+ 45 - 60
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 7T - 10B
+ MP-3i 95
+ 45 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 6T - 9B
+ MP-5i 110
+ 50 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 6T - 9B
+ MP-5i 98
+ 45 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 6T - 9B
+ MUSCLE POWER 3i 95
+ 45 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 6T - 9B
+ MUSCLE POWER 5i 110
+ 50 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 6T - 9B
+ MUSCLE POWER 5i 89
+ 45 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 6T - 9B
+ MUSCLE POWER 7 (MP-7)
+ 50 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 7,9B
+ 8B
+ 8T
+ 6T - 9B
+ NANOSPEED RQ 5
+ 50 - 70
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ NANOSPEED RQ 7 100
+ 50 - 70
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ NANOSPEED RQ 7 110
+ 50 - 70
+ 21'M - 20'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ NANOSPEED RQ 8
+ 50 - 70
+ 21'M - 20'C
+ 16M X 20C
+ 8T - 7,9B
+ 9B
+ 8T
+ 6T - 8B
+ PRO RD-70 LONG 105
+ 45 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ PRO RD-70 LONG 95
+ 50 - 65
+ 19'M - 17'C
+ 16M X 17C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ RD POWER 10 LONG 95 & 105
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ RD POWER 6 LONG 95 & 105
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ RD Ti 40 MUSCLE LONG
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RD Ti 70 LONG 88
+ 50 - 65
+ 19'M - 17'C
+ 18M X 20C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ RD Ti 70 LONG 98
+ 50 - 65
+ 19'M - 17'C
+ 18M X 20C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ RD-23
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 9B
+ RD-27
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 9B
+ RD-3
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 9B
+ RD-7
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 9B
+ RD-8
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 9B
+ RDIS 100 93
+ 40 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDIS 100 98
+ 40 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDIS 200
+ 45 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ RDIS 300
+ 40 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDS 001 90
+ 55 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDS 001 98
+ 55 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDS 002 98
+ 55 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDS 002 TOUR 98
+ 55 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDS 003 100
+ 55 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDX 300 MP
+ 50 - 65
+ 19'M - 17'C
+ 16M  X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDX 300 SUPER MID
+ 50 - 65
+ 19'M - 17'C
+ 16M  X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDX 500 HD
+ 50 - 65
+ 19'M - 17'C
+ 16M X 20C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ RDX 500 MID
+ 50 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RDX 500 MP
+ 50 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQ SPEED 30
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQ-100
+ 50 - 60
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 8B
+ RQ-120
+ 40 - 50
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-150
+ 40 - 50
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-180
+ 40 - 50
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-200
+ 40 - 50
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-220
+ 40 - 50
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-260
+ 40 - 50
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-300
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ NONE
+ 7B
+ 8T
+ 7T - 9B
+ RQ-310
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ NONE
+ 7B
+ 8T
+ 7T - 9B
+ RQ-320
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ NONE
+ 7B
+ 8T
+ 7T - 9B
+ RQ-360
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ NONE
+ 7B
+ 8T
+ 7T - 9B
+ RQ-380
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ NONE
+ 7B
+ 8T
+ 7T - 9B
+ RQ-410
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ RQ-420
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ RQ-60
+ 50 - 60
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 8B
+ RQ-880
+ 50 - 60
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-90
+ 50 - 60
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 8B
+ RQ-960
+ 40 - 50
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 6T - 8B
+ RQ-980
+ 40 - 60
+ 18'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ RQ-990
+ 50 - 60
+ 18'M - 16'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 7T
+ 7T - 8B
+ RQIS 1 TOUR
+ 40 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ RQIS 1 TOUR LIGHT
+ 40 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ RQIS 1 TOUR XL 100
+ 40 - 65
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQIS 1 TOUR XL 95
+ 40 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ RQIS 10
+ 40 - 65
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQIS 2 TOUR
+ 40 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQIS 50
+ 40 - 65
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQS 11 100
+ 50 - 60
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQS 22 102
+ 50 - 60
+ 20'M - 19'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQS 33 107
+ 45 - 65
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ RQS 55 112
+ 45 - 65
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ S-FIT 1
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 10B
+ S-FIT 1 LIGHT
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 10B
+ S-FIT 3
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 10B
+ S-FIT 5
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 10B
+ SUPER RD COMP
+ 50 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ SUPER RD TOUR 90
+ 50 - 65
+ 18'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ SUPER RD TOUR 95
+ 50 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ SUPER RQ Ti-280 MUSCLE LONG
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ SUPER RQ Ti-350 LONG
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 12B
+ SUPER RQ Ti-400 LONG
+ 40 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 10B
+ SUPER RQ Ti-400 LONG
+ 40 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 10B
+ SUPER RQ Ti-450 LONG
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 6T - 12B
+ SUPER RQ Ti-600 LONG
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ SUPER RQ Ti-700 LONG
+ 45 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ SUPER RQ Ti-800 LONG
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ SUPER RQ Ti-800 PRO LONG
+ 50 - 65
+ 22'M - 22'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ SUPER RQ Ti-900 LONG
+ 45 - 65
+ 22'M - 19'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T -10B
+ SUPER RQ-1000 LONG
+ 45 - 65
+ 22'M - 19'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ SUPER RQ-1000 LONG
+ 45 - 65
+ 22'M - 19'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T -10B
+ SUPER RQ-300
+ 40 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ SUPER RQ-300 LONG
+ 40 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ SUPER RQ-400 LONG
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T -12B
+ SUPER RQ-500
+ 50 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 9B
+ SUPER RQ-500 LONG
+ 40 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T -10B
+ SUPER RQ-700 LONG
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 6T -12B
+ SUPER RQ-780 COMP
+ 45 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ TITANIUM 400
+ 50 - 70
+ 19'M - 17'C
+ 16M X 19C
+ 8T
+ 6B
+ 8T
+ 6T -9B
+ ULTIMUM RD Ti 50 
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM RD Ti 50 LONG
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM RD Ti 80
+ 40 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM RQ SPEED 8
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM RQ Ti 1000
+ 40 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 10B
+ ULTIMUM RQ Ti 1200
+ 40 - 60
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 10B
+ ULTIMUM RQ Ti 2000 LONG SOS 120
+ 45 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T  -11B
+ ULTIMUM RQ Ti 200m
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM RQ Ti 210m
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM RQ Ti 250m
+ 50 - 60
+ 20M' - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM RQ Ti 260m
+ 50 - 60
+ 20M' - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM Ti 1500 OS 105
+ 40 - 60
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 10B
+ ULTIMUM Ti 1700 MP 98
+ 45 - 65
+ 19'M - 17'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM Ti 1700 OS 110
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM Ti 2000 OS 110
+ 45 - 65
+ 19'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ ULTIMUM Ti 2000 SUPER OS 120
+ 45 - 65
+ 20'M - 18'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ V CORE 100
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE 100S
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE 95D
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 11B
+ V CORE 98D
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 11B
+ V CORE DUEL G 100
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ NONE
+ 6T
+ 7T
+ 9T - 9B
+ V CORE DUEL G 97
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ NONE
+ 6T
+ 7T
+ 9T - 9B
+ V CORE PRO 100
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ V CORE PRO 97
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ V CORE Si 100
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE Si 100 LITE
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE Si 105
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE Si 98
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE Si 98 LITE
+ 45 - 60
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE Si TEAM 98
+ 45 - 60
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE SV 100+
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V CORE TEAM
+ 45 - 60
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 11B
+ V CORE TOUR 89
+ 50 - 65
+ 20'M - 18'C
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 7B
+ V CORE TOUR 97
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 7B
+ V CORE TOUR F 93
+ 50 - 65
+ 20'M - 20'C
+ 16M X 21C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ V CORE TOUR F 97
+ 50 - 65
+ 20'M - 20'C
+ 16M X 21C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ V CORE TOUR G 97
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 7T
+ 8T
+ 6T - 11B
+ V CORE Xi 100
+ 45 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ V CORE Xi 98
+ 50 - 65
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 11B
+ V CORE Xi TEAM
+ 45 - 60
+ 20'M - 19'C
+ 16M X 20C
+ 8T - 8B
+ 6B
+ 8T
+ 7T - 11B
+ V-CON 15
+ 55 - 65
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V-CON 17 100
+ 45 - 65
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 6T - 11B
+ V-CON 17 107
+ 45 - 65
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 7T - 10B
+ V-CON 20 107
+ 45 - 65
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 7T - 10B
+ V-CON 20 117
+ 45 - 65
+ 22'M - 22'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 7T - 10B
+ V-CON 30+ 107
+ 50 - 65
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 7T - 10B
+ V-CON 30+ 117
+ 50 - 65
+ 21'M - 20'C
+ 16M X 18C
+ 8T - 8B
+ 7B
+ 8T
+ 7T - 10B
+ V-CON X 18
+ 45 - 60
+ 20'M - 18'C
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8T
+ 6T - 11B
+ VOLTRIC 3
+ 19 - 24
+ 17'M - 16'C
+ 22M X 22C
+ 11B
+ 8B
+ 9B
+ 6B - 5T
+ VOLTRIC 5
+ 19 - 24
+ 17'M - 16'C
+ 22M X 22C
+ 11B
+ 8B
+ 9B
+ 6B - 5T
+ VOLTRIC 60
+ 19 - 24
+ 17'M - 16'C
+ 22M X 21C
+ 8,10,12,14T - 11B
+ 8B
+ 8T
+ 5T - 6B
+ VOLTRIC 7
+ 19 - 24
+ 17'M - 16'C
+ 22M X 22C
+ 11B
+ 8B
+ 9B
+ 6B - 5T
+ VOLTRIC 70
+ 19 - 24
+ 17'M - 16'C
+ 22M X 21C
+ 8,10,12,14T - 11B
+ 8B
+ 8T
+ 5T - 6B
+ VOLTRIC 80
+ 19 - 24
+ 17'M - 16'C
+ 22M X 21C
+ 8,10,12,14T - 11B
+ 8B
+ 8T
+ 5T - 6B
+ VOLTRIC 9
+ 19 - 24
+ 17'M - 16'C
+ 22M X 22C
+ 11B
+ 8B
+ 9B
+ 6B - 5T
+ VOLTRIC Z-FORCE
+ 19 - 24
+ 17'M - 16'C
+ 22M X 21C
+ 7,9,11,13,15T - 11B
+ 8B
+ 7T
+ 5T - 6B

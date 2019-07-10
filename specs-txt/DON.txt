@@ -1,0 +1,320 @@
+ ACADEMY PRO ULTRA OS
+ 58 - 68
+ 36' - 9'S
+ 16M X 19C
+ 8T - 8B
+ 7B
+ 8B
+ 6T
+ APOLLO PRO
+ 58 - 66
+ 35' - 9'S
+ 18M X 20C
+ 8,10,11T - 8,10,11B
+ 7B
+ 8B
+ 9T
+ COBALT
+ 54 - 64
+ 35' - 9'S
+ 16M X 18C
+ 7,9T - 7,9B
+ 6B
+ 7B
+ 5T
+ COBALT PRO OS/SM
+ 60 - 70
+ 35' - 9'S
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8B
+ 5T
+ FORMULA 
+ 40 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 8T - 5B
+ FORMULA LITE 100
+ 40 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 8T - 5B
+ FORMULA OS EXT
+ 40 - 60
+ 20'M - 19'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 6B
+ 7T
+ 5T - 11B
+ GHOST OS/SM
+ 60 - 70
+ 35' - 9'S
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8B
+ 5T
+ KEVLAR PRO 2
+ 55 - 64
+ 35' - 9'S
+ 18M X 20C
+ 8,10,11T - 8,10,11B
+ 6T
+ 8T
+ 9B
+ KEVLAR PRO 2 OS
+ 60 - 70
+ 35' - 9'S
+ 16M X 19C
+ 8T - 8B
+ 5T
+ 8T
+ 6B
+ MAGNUM FORCE
+ 48 - 57
+ 35' - 9'S
+ 16M X 20C
+ 8T - 7,9,10B
+ 5B
+ 7B
+ 7T
+ NO GRAVITY 260
+ 51 - 62
+ 35' - 9'S
+ 16M X 20C
+ 8T - 7,9,10B
+ 5B
+ 7B
+ 7T
+ PRO CYNETIC 1,2,3,4
+ 45 - 55
+ 35' - 9'S
+ 14M X 16C
+ 7T - 7B
+ 5T
+ 7T
+ 10B
+ PRO ONE 97 (16X19)
+ 40 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ PRO ONE 97 (18X20)
+ 40 - 60
+ 21'M - 19'C
+ 18M X 20C
+ 8,10T - 9B
+ 7B
+ 8T
+ 6T - 8B
+ PRO ONE OS EXT
+ 40 - 60
+ 20'M - 19'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ REVOLUTIVE
+ 55 - 65
+ 35' - 9'S
+ 16M X 18C
+ 8T - 8B
+ 6B
+ 8B
+ 5T
+ ULTIMATE 2
+ 60 - 70
+ 35' - 9'S
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8B
+ 5T
+ ULTIMATE 2 MID
+ 55 - 65
+ 35' - 9'S
+ 14M X 18C
+ 7T - 7B
+ 5T
+ 7T
+ 8B
+ ULTIMATE PRO
+ 60 - 70
+ 35' - 9'S
+ 16M X 19C
+ 8T - 8B
+ 6B
+ 8B
+ 5T
+ ULTIMATE PRO MID
+ 55 - 65
+ 35' - 9'S
+ 14M X 18C
+ 7T - 7B
+ 5T
+ 7T
+ 8B
+ VECTRA PRO
+ 56 - 62
+ 35' - 9'S
+ 16M X 19C
+ 7,9T - 7,9,10B
+ 5T
+ 7T
+ 6B
+ X BLACK 94
+ 45 - 55
+ 20'M - 18'C
+ 18M X 20C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ X BLACK 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X BLUE 94
+ 45 - 55
+ 20'M - 18'C
+ 18M X 20C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ X BLUE 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 20C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X DARK RED 94
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X DUAL GOLD 94
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X DUAL GOLD 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X DUAL PLATINUM 94
+ 50 - 60
+ 20M' - 18'C
+ 18M X 20C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ X DUAL PLATINUM 99
+ 50 - 60
+ 20M' - 18'C
+ 18M X 20C
+ 8,10T - 8,10B
+ 9B
+ 8T
+ 6T - 10B
+ X DUAL SILVER 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X DUAL SILVER LITE 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X ORANGE 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X RED 94
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X RED 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X WHITE 99
+ 50 - 60
+ 20'M - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ X YELLOW 99
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ XP DUAL 102
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B
+ XP DUAL LITE 102
+ 50 - 60
+ 20M' - 18'C
+ 16M X 19C
+ 7,9T - 7,9B
+ 8B
+ 7T
+ 5T - 9B

@@ -1,0 +1,256 @@
+ 125-EX
+ 35 - 70
+ 23'M - 19'C
+ 18M X 20C
+ 8,10T - 8,10,11B
+ 4T
+ 8T
+ 7T - 6B
+ 3/4 WEED
+ 35 - 70
+ 23'M - 19'C
+ 18M X 20C
+ 8,10T - 8,10,11B
+ 4T
+ 8T
+ 7T - 6B
+ 3/4 WEED XL 125
+ 35 - 70
+ 23'M - 19'C
+ 18M X 20C
+ 8,10T - 8,10,11B
+ 4T
+ 8T
+ 7T - 6B
+ BORON GRAPHITE
+ 35 - 70
+ 21'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 4T
+ 8T
+ 6T - 6B
+ COMBO
+ 35 - 70
+ 21'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 4T
+ 8T
+ 6T - 6B
+ EXT 125 TOUR
+ 35 - 70
+ 23'M - 19'C
+ 18M X 20C
+ 8,10T - 8,10,11B
+ 4T
+ 8T
+ 7T - 6B
+ EXT 135 BLUE
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ EXT 135 GREEN
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ EXT 135 PINK
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ EXT 135 TOUR
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ GRAPHITE
+ 35 - 70
+ 24'M - 21'C
+ 20M X 22C
+ 10B
+ 7B
+ 9T
+ 5T - 13B
+ INSTANT EDGE
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 9B
+ 7B
+ 8T
+ 5T - 13B
+ LADY ZONE
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ LADY ZONE PLUS
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ LIGHT QUICK
+ 35 - 70
+ 21'M - 17'C
+ 16M X 19C
+ 8T - 8B
+ 4T
+ 8T
+ 6T - 6B
+ NET ZONE PLUS
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ OPEN 135
+ 45 - 70
+ 21'M - 20'C
+ 16M X 19C
+ 7,9,10T - 7,9,10B
+ 8T
+ 7T
+ 4T - 5B
+ OPEN 135 TOUR
+ 45 - 70
+ 21'M - 20'C
+ 16M X 19C
+ 7,9,10T - 7,9,10B
+ 8T
+ 7T
+ 5T - 5B
+ SAVER
+ 35 - 70
+ 26'M - 20'C
+ 22M X 22C
+ 9,11,13,14T - 9,11,
+ 7T
+ 9T
+ 7T - 7B
+ T-ZONE
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ T-ZONE PLUS
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ THROWBACK
+ 35 - 65
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 9B
+ 7T
+ 8T
+ 5T - 13B
+ WEED I  (102 holes)
+ 35 - 70
+ 27'M - 27'C
+ 22M X 29C
+ 8,10,12,14,15T - 8,
+ 7B
+ 8T
+ 3T - 13B
+ WEED I  (82 holes)
+ 35 - 70
+ 27'M - 25'C
+ 22M X 26C
+ 11B
+ 7B
+ 9T
+ 6T - 13B
+ WEED II  (metal throat)
+ 35 - 70
+ 23'M - 21'C
+ 20M X 22C
+ 9,11T - 10B
+ 6T
+ 9T
+ 10T - 7B
+ WEED II  (plastic throat)
+ 35 - 70
+ 24'M - 20'C
+ 20M X 22C
+ 9,11T - 10B
+ 7T
+ 9T
+ 8T - 5B
+ WIDEBODY
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ X-ONE 25
+ 35 - 70
+ 23'M - 19'C
+ 18M X 20C
+ 8,10T - 8,10,11B
+ 4T
+ 8T
+ 7T - 6B
+ Z-ONE 35
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ Z-ONE 35 EXT
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ ZONE
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
+ ZONE PLUS
+ 35 - 70
+ 23'M - 20'C
+ 18M X 21C
+ 8,10T - 8,10B
+ 7T
+ 8T
+ 5T - 6B
