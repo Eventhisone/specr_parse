@@ -6,4 +6,4 @@ ruby '2.6.2'
 
 gem "nokogiri"
 
-gem "json", "~> 2.2"
+gem "json", "~> 2.3"
